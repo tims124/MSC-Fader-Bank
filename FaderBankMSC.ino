@@ -16,7 +16,7 @@
    NOTE: This software was made for a very specific use case where submasters 1 through 5 are assigned to things that don't change very often between cues.
          Also this will proobably not be updated and it's very very hodgepodged together.
 
-   Controls submasters 1 through 5 and cue stop/go in ETC EOS. Tested with ETC nomad software, will probably work on consoles but untested.
+   Uses an Arduino Leonardo to control submasters 1 through 5 and cue stop/go in ETC EOS. Tested with ETC nomad software, will probably work on consoles but untested.
 
    TODO:
         Add support for multiple pages of faders and 7-segment page display
